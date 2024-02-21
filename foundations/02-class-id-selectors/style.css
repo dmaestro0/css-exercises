@@ -1,6 +1,11 @@
 .odd{
     background-color: lightpink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.odd1{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
 }
 #second{
     color: blue;
